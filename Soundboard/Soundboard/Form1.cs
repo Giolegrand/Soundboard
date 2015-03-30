@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Soundboard.Media;
+using System.IO;
 
 namespace Soundboard
 {
@@ -16,5 +18,12 @@ namespace Soundboard
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SoundManager sm = new SoundManager(Properties.Resources.TestSound);
+            sm.playSound();
+        }
+
     }
 }
