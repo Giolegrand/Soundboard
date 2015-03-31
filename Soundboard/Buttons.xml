@@ -3,6 +3,11 @@
   <button>
     <id>0</id>
     <title>Play</title>
-    <sound></sound>
+    <sound>test</sound>
+  </button>
+  <button>
+    <id>1</id>
+    <title>test2</title>
+    <sound>test2</sound>
   </button>
 </Buttons>

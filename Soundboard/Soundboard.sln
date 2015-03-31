@@ -5,13 +5,6 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soundboard", "Soundboard\Soundboard.csproj", "{313F7031-A235-4F75-A453-264EF0E7B213}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5D16E71-C71B-497D-A290-9ADF624345F5}"
-	ProjectSection(SolutionItems) = preProject
-		Buttons.xml = Buttons.xml
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sounds", "Sounds", "{667193DC-69FD-4341-ACE5-8B20CF021B69}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
